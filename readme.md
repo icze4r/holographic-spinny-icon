@@ -55,3 +55,15 @@ The HTML:
       <img class="image3" src="icze4r.png" style="border-radius: 50%; width: 350px;" />
     </div>
 ```
+Parent really doesn't need to have anything in the 'style' portion, I don't think. Oh well! :3c
+Image1 is the holographic ring background, it moves! :> (holo.jpg, which was from Pixabay, so it's free... we hope)
+Image2 is the background behind the icon of the person. (lhowon.jpg)
+Image3 is the icon! You might have to move it a little bit (see: left: 20px or whatever), but as long as it's about 391px, you'll be fine! :>
+
+NO THIS ISN'T RESPONSIVE
+
+WHAT, DO YOU WANT THE WORLD
+
+JEEEEEEEEEEEEZUMS
+
+Check out https://icze4r.github.io/holographic-spinny-icon/index.html if you want to see it in action :3c
