@@ -1,5 +1,6 @@
 It's a holographic spinny CSS border that I couldn't find that anybody else had made and published for free!  Here you go!  Lookie! :>
 
+The CSS:
 ```
 <style>
       .parent {
@@ -44,4 +45,13 @@ It's a holographic spinny CSS border that I couldn't find that anybody else had 
         transform:rotate(360deg);   
 	  
     </style>
+```
+
+The HTML:
+```
+    <div class="parent" style="background:url('holo.jpg'); height: 391px; max-width: 391px; border-radius: 50%;">
+      <img class="image1 speen" style="background:url('holo.jpg'); height: 391px; max-width: 391px; border-radius: 50%;"" src="holo.jpg" />
+	  <img class="image2" style="width: 361px; height: 361px; background: url('lhowon.jpg'); border-radius: 50%;">
+      <img class="image3" src="icze4r.png" style="border-radius: 50%; width: 350px;" />
+    </div>
 ```
