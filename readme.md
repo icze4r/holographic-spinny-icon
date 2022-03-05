@@ -66,4 +66,5 @@ WHAT, DO YOU WANT THE WORLD
 
 JEEEEEEEEEEEEZUMS
 
-Check out https://icze4r.github.io/holographic-spinny-icon/index.html if you want to see it in action :3c
+<s>Check out https://icze4r.github.io/holographic-spinny-icon/index.html if you want to see it in action :3c</s>
+Github pages is being unfun. Download the zip and unzip it and drag index.html into your brwoser, it'll work :3c 
