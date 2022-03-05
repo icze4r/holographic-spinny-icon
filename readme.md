@@ -1,6 +1,6 @@
 It's a holographic spinny CSS border that I couldn't find that anybody else had made and published for free!  Here you go!  Lookie! :>
 
-
+```
 <style>
       .parent {
         position: relative;
@@ -44,4 +44,4 @@ It's a holographic spinny CSS border that I couldn't find that anybody else had 
         transform:rotate(360deg);   
 	  
     </style>
-	
+```
