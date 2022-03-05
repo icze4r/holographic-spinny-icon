@@ -81,3 +81,8 @@ Responsive version might just be:
 idk i'm not too good at this
 
 okay i love you bye bye!! ♡ ♥💕❤ c(◕ᴗ◕✿)
+
+
+EDIT: as i stare at this at 3 in the morning, i realize that image2 is an img tag with no src, but instead a style=background tag. lol. lmao
+
+you can fix it if you want
