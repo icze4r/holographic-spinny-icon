@@ -50,7 +50,7 @@ The CSS:
 The HTML:
 ```
     <div class="parent" style="background:url('holo.jpg'); height: 391px; max-width: 391px; border-radius: 50%;">
-      <img class="image1 speen" style="background:url('holo.jpg'); height: 391px; max-width: 391px; border-radius: 50%;"" src="holo.jpg" />
+      <img class="image1 speen" style="background:url('holo.jpg'); height: 391px; max-width: 391px; border-radius: 50%;" src="holo.jpg" />
 	  <img class="image2" style="width: 361px; height: 361px; background: url('lhowon.jpg'); border-radius: 50%;">
       <img class="image3" src="icze4r.png" style="border-radius: 50%; width: 350px;" />
     </div>
