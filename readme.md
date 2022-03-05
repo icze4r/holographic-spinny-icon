@@ -67,4 +67,17 @@ WHAT, DO YOU WANT THE WORLD
 JEEEEEEEEEEEEZUMS
 
 <s>Check out https://icze4r.github.io/holographic-spinny-icon/index.html if you want to see it in action :3c</s>
-Github pages is being unfun. Download the zip and unzip it and drag index.html into your brwoser, it'll work :3c 
+Github pages is being unfun. Download the zip and unzip it and drag index.html into your brwoser, it'll work :3c  
+
+Responsive version might just be:
+```
+    <div class="parent" style="background:url('holo.jpg'); max-height: 391px; max-width: 391px; border-radius: 50%;">
+      <img class="image1 speen" style="background:url('holo.jpg'); max-height: 391px; max-width: 391px; border-radius: 50%;"" src="holo.jpg" />
+	  <img class="image2" style="width: 361px; height: 361px; background: url('lhowon.jpg'); border-radius: 50%;">
+      <img class="image3" src="icze4r.png" style="border-radius: 50%; max-height: 350px; max-width: 350px;" />
+    </div>
+```
+
+idk i'm not too good at this
+
+okay i love you bye bye!! ♡ ♥💕❤ c(◕ᴗ◕✿)
